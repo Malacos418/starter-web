@@ -7,7 +7,8 @@
 
 # THANKS
 
-    A thanks to the instructor of this course. 
+    A thanks to the instructor of this course.
+	Here is another line of text.
 
 # TECHNOLOGY COLOPHON
 
